@@ -4,7 +4,5 @@ function sub(int a, int b){
 
 
 function main(){
-
 	printf("%d - %d = %d", 4, 5, sub(4,5));
-
 }
